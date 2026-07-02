@@ -4,12 +4,12 @@ title: "Schoko-Tassenkuchen"
 date: 2026-06-18
 draft: false
 description: "Schokoladenkuchen für eine Portion — fertig in unter 12 Minuten, ganz ohne Ei."
-image: "images/recipes/schoko-tassenkuchen.svg"
+image: "images/recipes/schoko-tassenkuchen.png"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Dessert", "Schnell"]
 tags: ["schokolade", "dessert", "mikrowelle", "schnell", "einfach"]
-contributors: ["einfachbacken.de"]
+contributors: Jakub Bielec
 difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
