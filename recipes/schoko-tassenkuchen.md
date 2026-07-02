@@ -3,7 +3,7 @@
 title: "Schoko-Tassenkuchen"
 date: 2026-06-18
 draft: false
-description: "Schokoladenkuchen für eine Portion — fertig in unter 12 Minuten, ganz ohne Ei."
+description: "Schokoladenkuchen — fertig in unter 12 Minuten, ganz ohne Ei."
 image: "images/recipes/schoko-tassenkuchen.png"
 
 # ── Einordnung ───────────────────────────────────────────
@@ -36,8 +36,6 @@ instructions:
   - "Falls der Kuchen nach dem Herausnehmen noch zu weich ist, weitere 15 Sekunden erhitzen."
   - "Warm direkt aus der Tasse geniessen."
 ---
-
-> «Falls du keine Mikrowelle hast, kannst du den Tassenkuchen auch für 15–20 Min. im vorgeheizten Ofen bei 180 °C (Umluft: 160 °C) backen.»
 
 ## Über dieses Rezept
 
