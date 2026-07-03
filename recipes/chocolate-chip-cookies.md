@@ -9,7 +9,7 @@ image: "images/recipes/chocolate-chip-cookies.jpg"
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Snack", "Dessert"]
 tags: ["cookies", "schokolade", "backen", "süss", "fast-food"]
-contributors: ["Jeremy"]
+contributors: ["Jeremy Dorner"]
 difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
