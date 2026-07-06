@@ -9,7 +9,7 @@ image: "images/recipes/schoko-tassenkuchen.png"
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Dessert", "Schnell"]
 tags: ["schokolade", "dessert", "mikrowelle", "schnell", "einfach"]
-contributors: Jakub Bielec
+contributors: ["Jakub Bielec"]
 difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
