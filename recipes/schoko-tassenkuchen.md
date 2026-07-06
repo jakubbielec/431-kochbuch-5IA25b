@@ -37,7 +37,7 @@ instructions:
   - "Warm direkt aus der Tasse geniessen."
 ---
 
-> "Der schnellste Kuchen, den ich je gemacht habe — und trotzdem gut"
+> "Der schnellste Kuchen, den ich je gemacht habe — und trotzdem gut" - Jakub Bielec
 
 ## Über dieses Rezept
 
