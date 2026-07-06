@@ -4,7 +4,7 @@ title: "Schoko-Tassenkuchen"
 date: 2026-06-18
 draft: false
 description: "Schokoladenkuchen — fertig in unter 12 Minuten, ganz ohne Ei."
-image: "images/recipes/schoko-tassenkuchen.png"
+image: "images/recipes/schoko-tassenkuchen.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Dessert", "Schnell"]
@@ -36,6 +36,8 @@ instructions:
   - "Falls der Kuchen nach dem Herausnehmen noch zu weich ist, weitere 15 Sekunden erhitzen."
   - "Warm direkt aus der Tasse geniessen."
 ---
+
+> "Der schnellste Kuchen, den ich je gemacht habe — und trotzdem gut"
 
 ## Über dieses Rezept
 
